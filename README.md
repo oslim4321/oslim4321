@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - ✍ I use
     - JavaScript/TypeScript
-    - React/Next.js
+    - React/Next.js/Remix.js
     - Vue
     - Node.js (Express)
     - PHP (Laravel)
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
     - MySQL
     - Firebase
     - Redux
+    - Gatby&Astro
  
 - 🔭 I’m currently working on an online marketplace.
 - 🌱 I’m currently learning Vue, Laravel
