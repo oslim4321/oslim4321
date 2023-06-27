@@ -25,13 +25,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mern Stack Project
 - 💬 Ask me about ...
 - 📫 How to reach me:
-    - Twitter:https://twitter.com/selim_adewale
-    - Facebook: https://web.facebook.com/selim.sooto
-    - linkedin:https://www.linkedin.com/in/selim-adewale-9b5910246/
     - ## 🔗 Links
       [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oslim-portfolio.vercel.app)
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
       [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/selim_adewale)
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
-    - Hobby: Coding, Debugging
+    - Hobby: Coding, Debugging, uggling flaming bananas while riding a unicycle 😂.
