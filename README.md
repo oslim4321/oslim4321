@@ -31,4 +31,4 @@ Here are some ideas to get you started:
       [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/selim_adewale)
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
-    - Hobby: Coding, Debugging, uggling flaming bananas while riding a unicycle 😂.
+    - Hobby: Coding, Debugging.
