@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - ✍ I use
     - JavaScript/TypeScript
-    - React/Next.js/Remix.js
+    - React/Next.js/Remix.js/Svelte
     - Vue
     - Node.js (Express)
     - PHP (Laravel)
