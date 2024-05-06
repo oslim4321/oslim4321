@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - ✍ I use
     - JavaScript/TypeScript
-    - React/Next.js/Remix.js/Svelte
+    - React.js/Next.js/Remix.js/Svelte
     - Vue
     - Node.js (Express)
     - PHP (Laravel)
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
     - Bootstrap
     - SASS
     - Git
+    - Sanity.io
 - Extras
     - MongoDB
     - MySQL
