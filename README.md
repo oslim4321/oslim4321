@@ -14,6 +14,8 @@ Here are some ideas to get you started:
     - SASS
     - Git
     - Sanity.io
+    - Docker
+    - Redis
 - Extras
     - MongoDB
     - MySQL
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
     - Gatby&Astro
  
 - 🔭 I’m currently working on an online marketplace.
-- 🌱 I’m currently learning Vue, Laravel
+- 🌱 I’m currently learning Docker, Redis, Linux
 - 👯 I’m looking to collaborate on Mern Stack Project
 - 💬 Ask me about ...
 - 📫 How to reach me:
