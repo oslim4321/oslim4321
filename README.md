@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     - Redux
     - Gatby&Astro
  
-- 🔭 I’m currently working on an online marketplace.
+- 🔭 I’m currently working on a Video Conferencing Platform.
 - 🌱 I’m currently learning Docker, Redis, Linux
 - 👯 I’m looking to collaborate on Mern Stack Project
 - 💬 Ask me about ...
