@@ -79,3 +79,6 @@ Let's discuss how we can collaborate on exciting projects or simply have a chat 
 <img src="https://raw.githubusercontent.com/oslim4321/oslim4321/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![snake gif](https://github.com/oslim4321/oslim4321/blob/output/github-contribution-grid-snake.svg)
+
