@@ -13,7 +13,7 @@ I am a passionate software developer with over 4 years of experience, specializi
 - 🌍 **Location:** UTC+1
 - 📧 **Email:** [adewaleselim6@gmail.com](mailto:adewaleselim6@gmail.com)
 - 📞 **Phone:** +234 (0) 708 712 1696
-- 💼 **LinkedIn:** [linkedin.com/in/selim-sooto-127131295](https://www.linkedin.com/in/selim-sooto-127131295/)
+- 💼 **LinkedIn:** [linkedin.com/in/selim-sooto](https://www.linkedin.com/in/selim-sooto/)
 - 💻 **GitHub:** [github.com/oslim4321](https://github.com/oslim4321)
 
 ---
