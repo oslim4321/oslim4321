@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Sooto Selim
+## I'm Oslim
 
 ### MERN Stack Developer | Software Engineer | Frontend Specialist
 
